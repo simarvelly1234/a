@@ -1,1 +1,1 @@
-Hello I am jtt issh jjja 
+print("hello world")
